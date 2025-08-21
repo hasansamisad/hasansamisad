@@ -1,12 +1,17 @@
-# 🌐 Hasan Sami Sad - Portfólio
-
-Bem-vindo ao meu GitHub! 🚀  
-Aqui você encontrará meus projetos de **desenvolvimento web** e experimentos em diferentes áreas da **Tecnologia da Informação**.
-
----
+# Opaa!!! Eu sou o Hasan Sami
 
 ## ✨ Sobre mim
 Atualmente cursando o **2º semestre da faculdade** e explorando diversas áreas de TI para descobrir minha especialização futura.  
+
+---
+
+## 📊 GitHub Stats
+![Hasan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=hasansamisad&show_icons=true&theme=dark&count_private=true)
+
+### 🔧 Linguagens mais usadas
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hasansamisad&layout=compact&theme=dark)
+'
+---
 
 Meu foco atual:
 - 📚 Desenvolvimento **Front-end** (HTML, CSS, JavaScript)  
@@ -19,14 +24,6 @@ Meu foco atual:
 - 🖥️ Réplicas de interfaces conhecidas (Discord, YouTube, Wikipedia)  
 - ⚙️ Exercícios e pequenos projetos em **JavaScript**  
 - 📑 Experimentos com **semântica, formulários e boas práticas de front-end**
-
----
-
-## 📊 GitHub Stats
-![Hasan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=hasansamisad&show_icons=true&theme=dark&count_private=true)
-
-### 🔧 Linguagens mais usadas
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hasansamisad&layout=compact&theme=dark)
 
 ---
 
