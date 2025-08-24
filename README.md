@@ -1,17 +1,16 @@
 # Opaa!!! Eu sou o Hasan Sami
 
-## ✨ Sobre mim
+## Sobre mim :
 Atualmente cursando o **2º semestre da faculdade** e explorando diversas áreas de TI para descobrir minha especialização futura.  
 
 ---
 
-## 📊 GitHub Stats
-![Hasan Sami Sad's GitHub stats](https://github-readme-stats.vercel.app/api?username=hasansamisad&show_icons=true&count_private=true&include_all_commits=true&theme=tokyonight)
+<p align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=hasansamisad&show_icons=true&count_private=true&include_all_commits=true&theme=tokyonight"/>
+  &nbsp;&nbsp;&nbsp;&nbsp; <!-- Espaço entre os cards -->
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hasansamisad&layout=compact&theme=tokyonight"/>
+</p>
 
-### 🔧 Linguagens mais usadas
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hasansamisad&layout=compact&theme=dark)
-'
----
 
 Meu foco atual:
 - 📚 Desenvolvimento **Front-end** (HTML, CSS, JavaScript)  
