@@ -6,7 +6,7 @@ Atualmente cursando o **2º semestre da faculdade** e explorando diversas áreas
 ---
 
 ## 📊 GitHub Stats
-![Hasan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=hasansamisad&show_icons=true&theme=dark&count_private=true)
+![Hasan Sami Sad's GitHub stats](https://github-readme-stats.vercel.app/api?username=hasansamisad&show_icons=true&count_private=true&include_all_commits=true&theme=tokyonight)
 
 ### 🔧 Linguagens mais usadas
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hasansamisad&layout=compact&theme=dark)
