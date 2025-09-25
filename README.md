@@ -17,7 +17,7 @@ Meu foco atual:
 - 🧩 Conceitos de **Back-end, banco de dados e integração de sistemas**  
 - ☁️ Exploração em **Cloud, dados e cibersegurança**  
 
-
+---
 
 ## 📂 Projetos
 - 🖥️ Réplicas de interfaces conhecidas (Discord, YouTube, Wikipedia)  
