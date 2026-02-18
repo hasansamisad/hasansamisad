@@ -1,7 +1,7 @@
 # Opaa!!! Eu sou o Hasan Sami
 
 ## Sobre mim :
-Atualmente cursando o **2º semestre da faculdade** e explorando diversas áreas de TI para descobrir minha especialização futura.  
+Atualmente cursando o **3º semestre da faculdade** e explorando diversas áreas de TI para descobrir minha especialização futura.  
 
 ---
 
