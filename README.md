@@ -1,4 +1,4 @@
-# Opaa!!! Eu sou o Hasan Sami
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Poppins&size=40&pause=1000&color=1461FF&vCenter=true&width=600&lines=Olá+Sou+o+Hasan+Sami+%F0%9F%91%8B)
 
 ## Sobre mim :
 Atualmente cursando o **3º semestre da faculdade** e explorando diversas áreas de TI para descobrir minha especialização futura.  
