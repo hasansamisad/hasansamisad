@@ -1,47 +1,49 @@
 ![Typing SVG](https://readme-typing-svg.demolab.com?font=Poppins&size=40&pause=1000&color=1461FF&vCenter=true&width=600&lines=Olá+Sou+o+Hasan+Sami+%F0%9F%91%8B)
 
-## Sobre mim :
-Atualmente cursando o **3º semestre da faculdade** e explorando diversas áreas de TI para descobrir minha especialização futura.  
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Poppins&size=35&pause=1000&color=1461FF&vCenter=true&width=600&lines=Olá,+Sou+Hasan+Sami+Sad;Desenvolvedor+Full-stack+em+Formação;Focado+em+Node.js+e+Engenharia+de+Software" />
+</p>
+
+## 🚀 Sobre Mim
+Atualmente no **3º semestre de Ciência da Computação (UDF)**. Sou um desenvolvedor apaixonado por construir soluções eficientes, focando especialmente no ecossistema **Node.js** e na arquitetura de sistemas modernos.
+
+- 🔭 Atualmente trabalhando em: **APIs RESTful com Node.js e integrações de Banco de Dados.**
+- 📚 Estudando: **React, TypeScript e Estruturas de Dados.**
+- ⚡ Diferencial: Experiência prática com **Docker e Docker Compose** para orquestração de ambientes.
 
 ---
 
 <p align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=hasansamisad&show_icons=true&count_private=true&include_all_commits=true&theme=tokyonight"/>
-  &nbsp;&nbsp;&nbsp;&nbsp; <!-- Espaço entre os cards -->
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hasansamisad&layout=compact&theme=tokyonight"/>
 </p>
 
+---
 
-Meu foco atual:
-- 📚 Desenvolvimento **Front-end** (HTML, CSS, JavaScript)  
-- 🧩 Conceitos de **Back-end, banco de dados e integração de sistemas**  
-- ☁️ Exploração em **Cloud, dados e cibersegurança**  
+## 🛠️ Tecnologias e Ferramentas
+- **Backend:** Node.js, Express, Sequelize, JWT.
+- **Frontend:** React, Redux, HTML5, CSS3, JavaScript (ES6+).
+- **Bancos de Dados:** PostgreSQL, MySQL, SQL.
+- **DevOps/Tools:** Docker, Docker Compose, Git, GitHub, WSL2 (Ubuntu).
 
 ---
 
-## 📂 Projetos
-- 🖥️ Réplicas de interfaces conhecidas (Discord, YouTube, Wikipedia)  
-- ⚙️ Exercícios e pequenos projetos em **JavaScript**  
-- 📑 Experimentos com **semântica, formulários e boas práticas de front-end**
-
----
-
-## 🚀 Objetivo
-Meu GitHub funciona como **portfólio de aprendizado**, registrando evolução e experiências em diferentes áreas da tecnologia.
+## 📂 Projetos em Destaque
+- **[Livraria API](LINK_DO_SEU_REPOSITORIO):** API profissional com Node.js, autenticação JWT, upload de arquivos e ambiente totalmente orquestrado via Docker.
+- **[ERP de Inventário](LINK_DO_SEU_REPOSITORIO):** Sistema de gestão de produtos utilizando Python e MySQL.
+- **[Mobile QR Scanner](LINK_DO_SEU_REPOSITORIO):** Aplicativo em Kotlin focado em logística e leitura de cargas.
 
 ---
 
 ## 📫 Contato
-- ✉️ Email: hasansamisad@gmail.com  
-- 💼 [LinkedIn](https://linkedin.com/in/hasansamisad)  
-- 🐙 [GitHub](https://github.com/hasansamisad)  
+<p align="left">
+<a href="https://linkedin.com/in/hasansamisad" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+<a href="mailto:hasansamisad@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+<a href="https://github.com/hasansamisad" target="_blank"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" target="_blank"></a>
+</p>
 
 ---
 
-### 🔗 Redes Sociais
-[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com/) 
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/) 
-[![Twitch](https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white)](https://twitch.tv/) 
-[![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/) 
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:hasansamisad@gmail.com) 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/hasansamisad)
+### 🔗 Outras Redes
+[![Discord](https://img.shields.io/badge/Discord-5865F2?style=flat&logo=discord&logoColor=white)](https://discord.com/) 
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white)](https://instagram.com/)
