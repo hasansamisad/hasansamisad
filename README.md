@@ -1,15 +1,13 @@
 ![Typing SVG](https://readme-typing-svg.demolab.com?font=Poppins&size=40&pause=1000&color=1461FF&vCenter=true&width=600&lines=Olá+Sou+o+Hasan+Sami+%F0%9F%91%8B)
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Poppins&size=35&pause=1000&color=1461FF&vCenter=true&width=600&lines=Olá,+Sou+Hasan+Sami+Sad;Desenvolvedor+Full-stack+em+Formação;Focado+em+Node.js+e+Engenharia+de+Software" />
-</p>
-
 ## 🚀 Sobre Mim
-Atualmente no **3º semestre de Ciência da Computação (UDF)**. Sou um desenvolvedor apaixonado por construir soluções eficientes, focando especialmente no ecossistema **Node.js** e na arquitetura de sistemas modernos.
+Graduando em **Ciência da Computação pela UDF (3º semestre)**. Sou um desenvolvedor focado na construção de aplicações web modernas, seguras e conteinerizadas, utilizando o ecossistema JavaScript/TypeScript de ponta a ponta. 
 
-- 🔭 Atualmente trabalhando em: **APIs RESTful com Node.js e integrações de Banco de Dados.**
-- 📚 Estudando: **React, TypeScript e Estruturas de Dados.**
-- ⚡ Diferencial: Experiência prática com **Docker e Docker Compose** para orquestração de ambientes.
+Desenvolvo APIs RESTful robustas com arquitetura orientada a objetos, aplicando validações rigorosas de segurança, integridade referencial em bancos de dados e esteiras automatizadas de CI/CD para deploys eficientes em nuvem.
+
+- 🔭 Atualmente desenvolvendo: **Aplicações Full Stack integradas com Node.js, React e Docker Compose.**
+- ⚙️ Diferencial técnico: Experiência prática com **orquestração de ambientes conteinerizados e entregas contínuas (CI/CD)** via Vercel e Render.
+- 📈 Em constante evolução: Aprofundando estudos em **TypeScript, Next.js, princípios S.O.L.I.D. e testes automatizados com Jest.**
 
 ---
 
@@ -21,25 +19,33 @@ Atualmente no **3º semestre de Ciência da Computação (UDF)**. Sou um desenvo
 ---
 
 ## 🛠️ Tecnologias e Ferramentas
-- **Backend:** Node.js, Express, Sequelize, JWT.
-- **Frontend:** React, Redux, HTML5, CSS3, JavaScript (ES6+).
+- **Backend:** Node.js, Express, Sequelize (ORM), JSON Web Token (JWT).
+- **Frontend:** React, HTML5, CSS3, JavaScript (ES6+), Tailwind CSS.
 - **Bancos de Dados:** PostgreSQL, MySQL, SQL.
-- **DevOps/Tools:** Docker, Docker Compose, Git, GitHub, WSL2 (Ubuntu).
+- **DevOps / Infra:** Docker, Docker Compose, CI/CD (Vercel & Render).
+- **Ferramentas / Workflow:** Git, GitHub, Insomnia, GitHub Projects, WSL2 (Ubuntu).
 
 ---
 
-## 📂 Projetos em Destaque
-- **[Livraria API](LINK_DO_SEU_REPOSITORIO):** API profissional com Node.js, autenticação JWT, upload de arquivos e ambiente totalmente orquestrado via Docker.
-- **[ERP de Inventário](LINK_DO_SEU_REPOSITORIO):** Sistema de gestão de produtos utilizando Python e MySQL.
-- **[Mobile QR Scanner](LINK_DO_SEU_REPOSITORIO):** Aplicativo em Kotlin focado em logística e leitura de cargas.
+## 📂 Ecossistemas em Destaque
+
+### 📚 [Sami Books - Livraria Full Stack](https://github.com/hasansamisad/Projeto-Livraria)
+Plataforma completa de gerenciamento de acervo integrada de ponta a ponta.
+* **Backend & Banco:** API RESTful em Node.js com banco PostgreSQL/MySQL protegido por regras de integridade referencial.
+* **Segurança:** Rotas privadas protegidas por autenticação e validação dinâmica de propriedade no CRUD.
+* **Infraestrutura:** Orquestração completa multi-container via **Docker Compose** e esteira híbrida de **CI/CD** (Vercel/Render).
+
+### 🏫 [Projeto Escola](https://github.com/hasansamisad/Projeto-Escola)
+Sistema Full Stack voltado para gestão e administração escolar.
+* **Arquitetura:** Frontend reativo em React integrado a um ecossistema backend em Node.js para gerenciamento de registros e autenticação.
+* **DevOps:** Ambiente de desenvolvimento totalmente containerizado e padronizado utilizando Docker.
 
 ---
 
-## 📫 Contato
+## 📫 Vamos nos conectar?
 <p align="left">
 <a href="https://linkedin.com/in/hasansamisad" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-<a href="mailto:hasansamisad@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-<a href="https://github.com/hasansamisad" target="_blank"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" target="_blank"></a>
+<a href="mailto:hasan.trabalho@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 </p>
 
 ---
