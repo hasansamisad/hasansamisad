@@ -1,7 +1,7 @@
 ![Typing SVG](https://readme-typing-svg.demolab.com?font=Poppins&size=40&pause=1000&color=1461FF&vCenter=true&width=600&lines=Olá+Sou+o+Hasan+Sami+%F0%9F%91%8B)
 
 ##  Sobre Mim
-Graduando em **Ciência da Computação pela UDF (3º semestre)**. Sou um desenvolvedor focado na construção de aplicações web modernas, seguras e conteinerizadas, utilizando o ecossistema JavaScript/TypeScript de ponta a ponta. 
+Graduando em **Ciência da Computação pela UDF (4º semestre)**. Sou um desenvolvedor focado na construção de aplicações web modernas, seguras e conteinerizadas, utilizando o ecossistema JavaScript/TypeScript de ponta a ponta. 
 
 Desenvolvo APIs RESTful robustas com arquitetura orientada a objetos, aplicando validações rigorosas de segurança, integridade referencial em bancos de dados e esteiras automatizadas de CI/CD para deploys eficientes em nuvem.
 
