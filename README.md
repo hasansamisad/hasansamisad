@@ -20,9 +20,9 @@ Desenvolvo APIs RESTful robustas com arquitetura orientada a objetos, aplicando 
 
 ## 🛠️ Tecnologias e Ferramentas
 - **Backend:** Node.js, Express, Sequelize (ORM), JSON Web Token (JWT).
-- **Frontend:** React, HTML5, CSS3, JavaScript (ES6+), Tailwind CSS.
+- **Frontend:** React, HTML5, CSS3, JavaScript (ES6+), S.
 - **Bancos de Dados:** PostgreSQL, MySQL, SQL.
-- **DevOps / Infra:** Docker, Docker Compose, CI/CD (Vercel & Render).
+- **DevOps / Infra:** Docker, Docker Compose, CI/CD.
 - **Ferramentas / Workflow:** Git, GitHub, Insomnia, GitHub Projects, WSL2 (Ubuntu).
 
 ---
